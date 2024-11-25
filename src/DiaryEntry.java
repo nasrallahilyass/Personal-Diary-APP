@@ -8,6 +8,7 @@ public class DiaryEntry implements Serializable {
     private String content;
     private String author;
 
+
     // Constructor
     public DiaryEntry() {}
 

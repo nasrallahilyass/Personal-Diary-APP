@@ -7,6 +7,7 @@ import java.util.List;
 public class DiaryManager {
     private List<DiaryEntry> entries;
 
+
     // Constructors:
     public DiaryManager() {
         this.entries = new ArrayList<>();
